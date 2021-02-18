@@ -60,18 +60,33 @@ The classic Rock Paper Scissors game. Input one of the three options as an argum
 - If/else loops
 - Switch statements
 
-Same as the standard game, except for a built in cheat! Input
+Same as the standard game, except for a built in cheat! Input "bomb" and you'll win every time!
 
 ## Sleep Debt Calculator
+- If/else loops
+
+Adds up the hours that you've slept in a week, works out the average and then informs you if you've had too much, too little, or just the right amount of sleep.
 
 ## Team Stats
+- Objects
+
+This is a basic library detailing the stats of multiple members of multiple teams, in which individual stats can be pulled.
 
 ## Tip Calculator
+- Switch statements
+
+Takes the quality of service and the total of the bill as arguements, and then returns the total with the tip added dependant on the quality of service.
 
 ## Training Days
+- If/else loops
+- Math .floor(), .random()
+
+Uses a random number generator to pick an event at random, and then inform you of how many days you should train.
 
 ## Whale Talk
+- Arrays .push(), .join(), .toUpperCase()
+- For loops
+- If loops
+- If/else loops
 
-
-
-
+This takes a string, alters it's contents and returns an amended array.
