@@ -3,7 +3,7 @@
 ## Table of contents
 * [General info](#general-info)
 * [BlackjackCounter.js](#blackjackcounter.js)
-* [CreditCardValidation](#CreditCardValidation)
+* [CreditCardValidation](#Credit-Card-Validation)
 * [FindYourHat.js](#findyourhat.js)
 * [Project Status](#project-status)
 * [Project Status](#project-status)
@@ -25,7 +25,7 @@ Below, I will list the Statments/Methods etc. used for each project, along with 
 
 This is a card counting tool for the game Blackjack.
 
-## CreditCardValidation
+## Credit Card Validation
 - Arrays, push()
 - If/else loops
 - Switch statements
