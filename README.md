@@ -3,7 +3,7 @@
 ## Table of contents
 * [General info](#general-info)
 * [BlackjackCounter.js](#blackjackcounter.js)
-* [CreditCardValidation.js](#CreditCardValidation.js)
+* [CreditCardValidation](#CreditCardValidation)
 * [FindYourHat.js](#findyourhat.js)
 * [Project Status](#project-status)
 * [Project Status](#project-status)
