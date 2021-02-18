@@ -25,7 +25,7 @@ Below, I will list the Statments/Methods etc. used for each project, along with 
 
 This is a card counting tool for the game Blackjack.
 
-## CreditCardValidation.js
+## CreditCardValidation
 - Arrays, push()
 - If/else loops
 - Switch statements
