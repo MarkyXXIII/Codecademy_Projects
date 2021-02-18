@@ -1,7 +1,10 @@
 # Codecademy Projects
 
-## Table of contents
-* [General info](#general-info)
+## General info
+The purpose of this repository is to show the mini-projects that I've written during my studies with Codecademy.
+Below, I will list the Statments/Methods etc. used for each project, along with a brief description of the project.
+
+## Contents
 * [BlackjackCounter.js](#Blackjack-Counter)
 * [CreditCardValidation.js](#Credit-Card-Validation)
 * [FindYourHat.js](#Find-Your-Hat)
@@ -13,10 +16,6 @@
 * [TipCalculator.js](#Tip-Calculator)
 * [TrainingDays.js](#Training-Days)
 * [WhaleTalk.js](#Whale-Talk)
-
-## General info
-The purpose of this repository is to show the mini-projects that I've written during my studies with Codecademy.
-Below, I will list the Statments/Methods etc. used for each project, along with a brief description of the project.
 
 ## Blackjack Counter
 - Switch statements
@@ -50,8 +49,18 @@ A game that runs in node.js. It generates a random maze with obstacles, which yo
 Automatically generates a random three course meal from the three arrays, and adds up your bill.
 
 ## Rock Paper Scissors
+- If loops
+- If/else loops
+- Switch statements
+
+The classic Rock Paper Scissors game. Input one of the three options as an argument. The computer also chooses one and will determine win, lose or draw.
 
 ## Rock Paper Scissors Bomb
+- If loops
+- If/else loops
+- Switch statements
+
+Same as the standard game, except for a built in cheat! Input
 
 ## Sleep Debt Calculator
 
